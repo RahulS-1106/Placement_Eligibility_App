@@ -1,1 +1,1 @@
-# Placemnt_Eligibility_App
+# Placement_Eligibility_App
